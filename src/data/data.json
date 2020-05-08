@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "type": "LOCAL",
+        "profile": "Super_User",
+        "jsonApiAccess": "None",
+        "adoms": "All ADOMS",
+        "trustedIpv4Hosts": "0.0.0.0/0.0.0.0"
+    },
+    {
+        "id": 2,
+        "name": "cxu",
+        "type": "LDAP",
+        "profile": "Super_User",
+        "jsonApiAccess": "None",
+        "adoms": "All ADOMS",
+        "trustedIpv4Hosts": "0.0.0.0/0.0.0.0"
+    },
+    {
+        "id": 3,
+        "name": "wxhu",
+        "type": "LDAP",
+        "profile": "Super_User",
+        "jsonApiAccess": "Read & Write",
+        "adoms": "All ADOMS",
+        "trustedIpv4Hosts": "0.0.0.0/0.0.0.0"
+    },
+    {
+        "id": 4,
+        "name": "jerryzhang",
+        "type": "LDAP",
+        "profile": "Super_User",
+        "jsonApiAccess": "Read",
+        "adoms": "All ADOMS",
+        "trustedIpv4Hosts": "0.0.0.0/0.0.0.0"
+    }
+]
